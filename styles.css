@@ -19,17 +19,9 @@ ul {
 
 ul.nav {
     padding-left: 0px;
-    background-color: #ffffff;
     text-align: center;
   }
   ul.nav > li {
     display: inline-block;
     padding: 10px 20px;
-  }
-  ul.nav > li:hover {
-    background-color: #ffffff;
-  }
-  ul.nav > li > a {
-    color: white;
-    text-decoration: none;
   }
